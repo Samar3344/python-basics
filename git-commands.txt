@@ -1,7 +1,7 @@
 git init   --for initalization of git repo  // this is already done by git clone command
 
 
-git add filename  | git add .      // if file name the specified file will be added and if . is given all the files which are new to be piushed to repo will be added
+git add filename  |git add . // if file name the specified file will be added and if . is given all the files which are new to be piushed to repo will be added
 
 
 git commit -m   ""   // this it  that you are ready to piush the commited files 
